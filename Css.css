@@ -1,0 +1,28 @@
+body
+{
+    background-color: lightcoral;
+}
+.login{
+    
+    text-align: center;
+    padding-top: 30%;
+
+}
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    border: 1px solid white;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    border:  1px solid black ;
+    background: black;
+    transition: 1s;
+}
