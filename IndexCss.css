@@ -1,0 +1,28 @@
+body
+{
+    background-color: red;
+}
+.login{
+    
+    text-align: center;
+    padding-top: 20%;
+
+}
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    border: 1px solid white;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    border:  1px solid white ;
+    background: black;
+    transition: 1s;
+}

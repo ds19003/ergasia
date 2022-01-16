@@ -1,4 +1,7 @@
-body
-{
-    background-color: aqua;
+body {
+  background-color: lightblue;
+}
+
+div{
+    style="text-align: center;"
 }
